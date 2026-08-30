@@ -13,7 +13,7 @@ Features
 - Addition (+)
 - Subtraction (-)
 - Multiplication (*)
-- Division (/), with error handling for division by zero
+- Division (/),
 
 Purpose
 The project was designed to help me understand the basics of coding in Python. It demonstrates:
