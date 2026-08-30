@@ -1,3 +1,4 @@
+# this my fist project in python code 
 # making a claculator program that uses addition, subtraction, multiplication and division
 
 # This is the first input that the user will enter
@@ -22,4 +23,4 @@ else:
    print("Invalid operation")
 
    # answer
-print(f"The result of {first_number_input} {operation_input} {second_number_input} is: {result}")
+print(f"The result of {first_number_input} {operation_input} {second_number_input} is: {result}"
