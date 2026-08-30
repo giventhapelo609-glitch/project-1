@@ -1,5 +1,5 @@
 # this my fist project in python code 
-# making a claculator program that uses addition, subtraction, multiplication and division
+# making a calculator program that uses addition, subtraction, multiplication and division
 
 # This is the first input that the user will enter
 first_number_input = input("Enter the first number: ")
@@ -22,5 +22,5 @@ elif operation_input == "/":
 else:
    print("Invalid operation")
 
-   # answer
+# answer
 print(f"The result of {first_number_input} {operation_input} {second_number_input} is: {result}"
