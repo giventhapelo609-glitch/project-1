@@ -21,6 +21,9 @@ The project was designed to help me understand the basics of coding in Python. I
 - User input handling
 - Basic error management
 
+
+
+
 # Beginner Project 2: Weight Conversion System
 
 ## Overview
@@ -43,6 +46,10 @@ The project was designed to help me practice conditional statements and unit con
 - User input handling
 - Basic arithmetic operations with floats
 - Output formatting for clarity
+
+
+
+
 
 # Beginner Project 3: Interactive Patient Check-In System
 
