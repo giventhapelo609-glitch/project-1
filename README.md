@@ -40,7 +40,7 @@ This program converts a patient’s weight between kilograms (kg) and pounds (lb
 - Converts lb → kg
 - Simple input/output interaction with the user
   
-🎯 Purpose
+## Purpose
 The project was designed to help me practice conditional statements and unit conversion in Python. It demonstrates:
 - Clean code structure with comments
 - User input handling
